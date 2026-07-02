@@ -127,5 +127,4 @@ Estou em busca de oportunidades remotas nas áreas de:
 ## Contato
 
 * LinkedIn: [linkedin.com/in/moisés-neivert-391b26221](https://www.linkedin.com/in/mois%C3%A9s-neivert-391b26221/)
-* E-mail: moisesbqp@hotmail.com
 * GitHub: `moisesneivert`
