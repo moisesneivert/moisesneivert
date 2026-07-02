@@ -50,7 +50,7 @@ Busco uma oportunidade remota como **Desenvolvedor Backend Python Júnior** ou *
 
 ## Projetos em destaque
 
-### Flask JWT Authentication API
+### [Flask JWT Authentication API](https://github.com/moisesneivert/flask-jwt-auth-api)
 
 API de autenticação desenvolvida com Flask, JWT, access e refresh tokens, rotação e revogação de tokens, controle de acesso por perfil, bloqueio temporário de contas, migrations, testes automatizados, Docker e integração contínua.
 
@@ -58,7 +58,7 @@ API de autenticação desenvolvida com Flask, JWT, access e refresh tokens, rota
 
 ---
 
-### Flask Tasks CRUD API
+### [Flask Tasks CRUD API](https://github.com/moisesneivert/Flask-Tasks-Crud-Api)
 
 API REST para gerenciamento de tarefas com CRUD completo, filtros, busca, ordenação, paginação, validações, tratamento padronizado de erros, migrations e testes automatizados.
 
@@ -66,7 +66,7 @@ API REST para gerenciamento de tarefas com CRUD completo, filtros, busca, ordena
 
 ---
 
-### Dashboard de Vendas Pro
+### [Dashboard de Vendas Pro](https://github.com/moisesneivert/Dashboard-Vendas-Pro)
 
 Dashboard comercial desenvolvido com Streamlit, incluindo autenticação, indicadores de desempenho, filtros, metas, previsão de vendas, análise de margem, PostgreSQL, importação de CSV e testes automatizados.
 
@@ -74,7 +74,7 @@ Dashboard comercial desenvolvido com Streamlit, incluindo autenticação, indica
 
 ---
 
-### Python Calculation API
+### [Python Calculation API](https://github.com/moisesneivert/Python-Api-Code-Design)
 
 API de cálculos matemáticos e estatísticos construída com separação entre domínio, serviços e camada HTTP.
 
@@ -126,6 +126,6 @@ Estou em busca de oportunidades remotas nas áreas de:
 
 ## Contato
 
-* LinkedIn: www.linkedin.com/in/moisés-neivert
+* LinkedIn: [linkedin.com/in/moisés-neivert-391b26221](https://www.linkedin.com/in/mois%C3%A9s-neivert-391b26221/)
 * E-mail: moisesbqp@hotmail.com
 * GitHub: `moisesneivert`
