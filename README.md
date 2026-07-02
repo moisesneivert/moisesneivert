@@ -8,7 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, Técnico em Informática 
 
 Busco uma oportunidade remota como **Desenvolvedor Backend Python Júnior** ou **Analista de Suporte a Aplicações**.
 
----
+----
 
 ## Tecnologias e ferramentas
 
